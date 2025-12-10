@@ -1,4 +1,4 @@
-# AI Homework Tutor
+# Infinite Homework AI
 
 A tool that uses AI to generate infinite, randomized printable homework packets (PDFs) for students. Your students are going to love you!
 
