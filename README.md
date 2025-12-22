@@ -2,6 +2,10 @@
 
 A tool that uses AI to generate infinite, randomized printable homework packets (PDFs) for students. Your students are going to love you!
 
+<p align="left">
+  <img src="assets/problem_selection.png" alt="Problem Selection Interface" width="600">
+</p>
+
 ## Features
 
 Leveraging Google's Gemini AI (Flash v2.5, but you can switch the model), this tool lets you generate personalized homework packets for multiple students at once—selecting from a wide range of topics like fractions, equations, and geometry for grades 4 through 7—and automatically outputs ready-to-print PDF worksheets with a corresponding answer key.
